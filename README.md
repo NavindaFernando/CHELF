@@ -7,7 +7,7 @@ Expense manager :recycle:
 ***
 
 <h4 align="center">
-Course goal :electric_plug:
+Course goal :recycle:
 </h4>
 
 ![Screenshot (866)](https://user-images.githubusercontent.com/86073690/226354190-94025a9e-7d6e-4b89-8385-db38a6f5651e.png)
@@ -15,7 +15,7 @@ Course goal :electric_plug:
 ***
 
 <h4 align="center">
-Logon :electric_plug:
+Logon :recycle:
 </h4>
 
 ![Screenshot (894)](https://user-images.githubusercontent.com/86073690/226355029-0fc26bd9-1dbf-4341-aa44-0a9f09415b15.png)
@@ -23,7 +23,7 @@ Logon :electric_plug:
 ***
 
 <h4 align="center">
-Hey portal :electric_plug:
+Hey portal :recycle:
 </h4>
 
 ![Screenshot (868)](https://user-images.githubusercontent.com/86073690/226354828-92142927-0d9a-4da2-be0f-5ddd8fca32a7.png)
@@ -31,7 +31,7 @@ Hey portal :electric_plug:
 ***
 
 <h4 align="center">
-Flick :electric_plug:
+Flick :recycle:
 </h4>
 
 ![Screenshot (887)](https://user-images.githubusercontent.com/86073690/226355622-a4d08371-9fc3-47c7-92fd-59e62b7e2902.png)
