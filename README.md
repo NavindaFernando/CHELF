@@ -1,5 +1,5 @@
 <h4 align="center">
-Expense manager :electric_plug:
+Expense manager :recycle:
 </h4>
 
 ![Screenshot (863)](https://user-images.githubusercontent.com/86073690/226353162-c6935b70-6d69-4529-a18c-e48ab7ab00b7.png)
